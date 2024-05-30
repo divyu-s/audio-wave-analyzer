@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.input-container {
+  position: absolute;
+  top: 1rem;
+  left: calc((100% - 159px) / 2);
+  padding: 1rem 2rem;
+  border-radius: 2rem;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
